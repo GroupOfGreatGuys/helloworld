@@ -2,7 +2,7 @@ package is.ru.helloworld;
 
 public class World
 {
-	public string greet() 
+	public String greet() 
 	{
 		return "Hello world!";
 	}
