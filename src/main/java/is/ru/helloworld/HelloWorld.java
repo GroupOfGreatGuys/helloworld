@@ -7,5 +7,6 @@ public class HelloWorld
 		System.out.println("Hello world!");
 		World world = new World();
 		System.out.println(world.greet());
+		// Blizar
 	}
 }
